@@ -1,6 +1,6 @@
 <p 
    align="center"
-   margin="35px"
+   margin="20px"
    >
   <img width="1000" img height="400" src="https://github.com/colemicr/colemicr/blob/main/img/Header-Final.gif" alt="Header">
 </p>

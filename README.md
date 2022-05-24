@@ -1,4 +1,4 @@
-!<p align="center">
+<p align="center">
   <img width="auto" src="https://github.com/colemicr/colemicr/blob/main/img/Header-Final.gif" alt="Header">
 </p>
 
